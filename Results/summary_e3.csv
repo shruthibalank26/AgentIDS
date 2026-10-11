@@ -1,0 +1,6 @@
+,dr,dr,fpr,fpr,binary_f1,binary_f1
+,mean,std,mean,std,mean,std
+method,,,,,,
+Isolation forest (HWGO),0.6396,0.034,0.0931,0.0072,0.6361,0.0153
+Isolation forest (all),0.6238,0.0343,0.0949,0.0049,0.6232,0.0218
+Reputation threshold,0.5096,0.108,0.3336,0.1013,0.3587,0.0269
